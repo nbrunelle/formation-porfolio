@@ -1,6 +1,6 @@
 ## Pour Coby !
 
-_Attention, j'ai changé la fonction dans index, et les fonctions au début de _menu.php et works.php, pour qu'ils soient plus courts.s
+> Attention, j'ai changé la fonction dans index, et les fonctions au début de _menu.php et works.php, pour qu'ils soient plus courts.s
 
 # Base pour un site d'artiste
 
@@ -26,7 +26,7 @@ Les bibliothèques que nous utiliserons sont les suivantes :
 
 Dans les paramètres du champ, aller dans "Options" puis ajouter ce texte : 
 
-```json
+```s
 {
   tinymce: {
     plugins: 'code advlist autolink link image lists charmap preview',
@@ -34,6 +34,7 @@ Dans les paramètres du champ, aller dans "Options" puis ajouter ce texte :
   },
 }
 ```
+
 ![Aperçu de la fenêtre de configuration](img/image.png)
 
 
